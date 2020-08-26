@@ -9,4 +9,3 @@ end
 
 # call your method here!
 
-yield hello_t()
